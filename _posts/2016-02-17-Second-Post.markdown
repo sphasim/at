@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second Post"
+title:  "Reserach Projects"
 date:   2016-02-17 21:03:30 -0700
 categories: jekyll update
 ---
